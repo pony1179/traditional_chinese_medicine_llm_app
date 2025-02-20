@@ -10,7 +10,7 @@ Before installing this project, ensure your system meets the following requireme
 
 ### **1️⃣ Install Python 3.9**
 If not installed, download and install it from:
-🔗 Python 3.9 Download https://www.python.org/downloads/release/python-390/
+🔗 Python 3.9 Download(https://www.python.org/downloads/release/python-390/) 
 This project requires **Python 3.9**. Check your Python version:
 ```sh
 python --version
