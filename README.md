@@ -35,7 +35,7 @@ myenv\Scripts\activate
 source myenv/bin/activate
 ```
 
-📥 Installation
+## 📥 Installation
 
 Once you have Python 3.9, venv activated, and Hugging Face installed, follow these steps:
 
