@@ -30,7 +30,7 @@ class CustomTextStreamer:
         """
         thread = threading.Thread(target=model.generate, kwargs={
             "input_ids": inputs.input_ids,
-            "temperature": 0.8,  # 控制随机性（越低越保守）
+            "temperature": 0.7,  # 控制随机性（越低越保守）
             "top_k":1,         # 限制最高概率的50个标记
             "top_p":0.9,       #
             "max_new_tokens": 300,
